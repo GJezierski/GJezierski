@@ -18,7 +18,6 @@ Web application in Django, which, by connecting to the OpenWeather API, allows y
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/jezierskig.png" alt="TryHackMe">
 
-
 <!--
 **GJezierski/GJezierski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
